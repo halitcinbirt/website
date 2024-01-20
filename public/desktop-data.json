@@ -1,0 +1,45 @@
+[
+    {
+      "link": "https://www.linkedin.com/in/halitcinbirt/",
+      "icon": "icons/linkedin.png",
+      "text": "Linkedin",
+      "dock": false
+    },
+    {
+      "link": "https://github.com/halitcinbirt/",
+      "icon": "icons/github.png",
+      "text": "Github",
+      "dock": false
+    },
+    {
+      "link": "resume.pdf",
+      "icon": "icons/resume.png",
+      "text": "Resume",
+      "dock": false
+    },
+    {
+      "link": "https://twitter.com/halitcinbirt",
+      "icon": "icons/x.png",
+      "text": "X",
+      "dock": false
+    },
+    {
+      "link": "resume.pdf",
+      "icon": "icons/safari.png",
+      "text": "Web Site",
+      "dock": true
+    },
+    {
+      "link": "mailto:halitcinbirt@gmail.com",
+      "icon": "icons/mail.png",
+      "text": "Sende me an email",
+      "dock": true
+    },
+    {
+      "link": "",
+      "icon": "icons/contacts.png",
+      "text": "Contact Me",
+      "dock": true
+    }
+  ]
+  
