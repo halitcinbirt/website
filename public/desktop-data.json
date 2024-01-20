@@ -24,7 +24,7 @@
       "dock": false
     },
     {
-      "link": "resume.pdf",
+      "link": "https://halitcinbirt.vercel.app/",
       "icon": "icons/safari.png",
       "text": "Web Site",
       "dock": true
