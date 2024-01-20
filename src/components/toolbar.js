@@ -42,7 +42,6 @@ export default function toolbar() {
 
   return (
     <>
-        <Modal title={'About Me'} active={false} />
         <div className='toolbar'>
             <div className='first'>
                 <a>
