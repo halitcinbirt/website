@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import {ReactComponent as AppleIcon} from './../../public/apple-icon.svg'
-import Modal from '@/components/modal'
 
 export default function toolbar() {
 
